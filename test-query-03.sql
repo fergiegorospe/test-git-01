@@ -1,3 +1,3 @@
 UPDATE products
-SET price = 95
-WHERE price = 100
+SET price = 99
+WHERE price = 90
